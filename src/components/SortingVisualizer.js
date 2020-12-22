@@ -6,7 +6,7 @@ import {heap_Sort} from '../sortingAlgorithms/heapSort.js';
 const ANIMATION_SPEED_MS = 1;
 
 // Change this value for the number of bars (value) in the array.
-const NUMBER_OF_ARRAY_BARS = 70;
+const NUMBER_OF_ARRAY_BARS = 150;
 
 // This is the main color of the array bars.
 const PRIMARY_COLOR = 'turquoise';
